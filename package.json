@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  },
+  "scripts": {
+    "build-css": "tailwindcss build style.css -o css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MosesFahmiPratama/tailwind-projek1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MosesFahmiPratama/tailwind-projek1/issues"
+  },
+  "homepage": "https://github.com/MosesFahmiPratama/tailwind-projek1#readme"
+}
